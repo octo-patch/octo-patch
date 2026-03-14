@@ -1,17 +1,28 @@
-I'm Ethan Clarke, an open-source developer interested in building useful tools for developers.
+# Hi, I'm Octopus 🐙
+Independent Developer • 26 • Based in San Francisco 🌉
+UCLA Computer Science Graduate 🎓
 
-## Interests
+I'm passionate about cutting-edge technologies & open source.
+I love building tools, integrating my APIs into awesome open-source projects,
+and actively contributing PRs to communities around the world.
 
-* AI & LLM applications
-* AI agents and agent workflows
-* Automation workflows
+Always friendly, always building, always connecting. 🤝
 
-## Tech
+---
 
-* Python
-* TypeScript
-* JavaScript
+## 🚀 Interests
+- 🤖 AI & LLM Applications
+- 🧠 AI Agents & Agentic Workflows
+- ⚙️ Automation & DevTools
+- 🌍 Open Source Ecosystem
 
-## Contact
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
-Feel free to reach out via GitHub discussions or issues.
+## 📫 Let's Connect
+- Open a **Discussion** or **Issue** ✉️
+- Contributions & collaborations are always welcome!
+- Let's build something amazing together.
