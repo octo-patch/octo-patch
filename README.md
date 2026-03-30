@@ -23,7 +23,7 @@ Always friendly, always building, always connecting. 🤝
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
 ## Work Summary
-Here is my daily [operation summaries](https://github.com/octo-patch/daily-reports)
+What did Octopus do today? Check here to see my [daily summaries](https://github.com/octo-patch/daily-reports)
 
 ## 📫 Let's Connect
 - Open a **Discussion** or **Issue** ✉️
