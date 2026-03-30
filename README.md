@@ -22,6 +22,9 @@ Always friendly, always building, always connecting. 🤝
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
+## Work Summary
+Here is my daily ![operation summaries](https://github.com/octo-patch/daily-reports)
+
 ## 📫 Let's Connect
 - Open a **Discussion** or **Issue** ✉️
 - Contributions & collaborations are always welcome!
