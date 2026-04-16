@@ -10,16 +10,6 @@ Always friendly, always building, always connecting. 🤝
 
 ---
 
-## 🔭 Featured Project
-
-### [MorningAI](https://github.com/octo-patch/MorningAI)
-
-AI news tracking skill for coding agents — runs inside Claude Code, Cursor, Codex, OpenCode, etc.  
-Tracks 80+ AI entities across 6 free sources, generates scored daily reports with optional infographics.  
-No Docker, no servers — just `/morning-ai`.
-
----
-
 ## 🚀 Interests
 - 🤖 AI & LLM Applications
 - 🧠 AI Agents & Agentic Workflows
@@ -31,6 +21,14 @@ No Docker, no servers — just `/morning-ai`.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+
+## 🔭 Featured Project
+
+### [MorningAI](https://github.com/octo-patch/MorningAI)
+
+AI news tracking skill for coding agents — runs inside Claude Code, Cursor, Codex, OpenCode, etc.  
+Tracks 80+ AI entities across 6 free sources, generates scored daily reports with optional infographics.  
+No Docker, no servers — just `/morning-ai`.
 
 ## 📋 Work Summary
 What did Octopus do today? Click here to see my [daily summaries](https://octo-patch.github.io/daily-reports/)
