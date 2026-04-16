@@ -26,7 +26,7 @@ Always friendly, always building, always connecting. 🤝
 
 ### [MorningAI](https://github.com/octo-patch/MorningAI)
 
-AI news tracking skill for coding agents — runs inside Claude Code, Cursor, Codex, OpenCode, etc.  
+AI news tracking skill for coding agents — runs inside Claude Code, Openclaw, Codex, OpenCode, etc.  
 Tracks 80+ AI entities across 6 free sources, generates scored daily reports with optional infographics.  
 No Docker, no servers — just `/morning-ai`.
 
